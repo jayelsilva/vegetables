@@ -1,0 +1,5 @@
+celery
+carrots
+cucumbers
+tomatoes
+chard
